@@ -1,5 +1,10 @@
 # banking-auth
 
+Securing Application by implement JWT Token
+- Verify API to validate if user authorised to access the API from header token request
+
+https://www.udemy.com/course/rest-based-microservices-api-development-in-go-lang
+
 ##### Run `./start.sh` to download the dependencies and run the the application
 
 To run the application, you have to define the environment variables, default values of the variables are defined inside `start.sh`
